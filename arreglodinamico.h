@@ -9,7 +9,7 @@ class ArregloDinamico
     string *arreglo;
     size_t tam;
     size_t cont;
-    const static size_t MAX = 5;
+    const static size_t MAX = 10;
 
 public:
     ArregloDinamico();

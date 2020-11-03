@@ -10,6 +10,8 @@ int main()
     arreglo.insertar_final("y");
     arreglo.insertar_final("estudio");
     arreglo.insertar_final("informatica");
+    arreglo.insertar_final("en");
+    arreglo.insertar_final("CUCEI");
     arreglo.insertar_final(":)");
     arreglo.insertar_inicio("soy");
     arreglo.insertar_inicio("Hola");
